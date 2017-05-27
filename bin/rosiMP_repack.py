@@ -76,7 +76,7 @@ print
 FNULL = open(os.devnull, 'w')
 
 #sp.call( cmd )										# unhash for debugging, verbose rosetta
-#sp.call( cmd, stdout=FNULL, stderr=sp.STDOUT )		# unhash for silenced rosetta stdout
+sp.call( cmd, stdout=FNULL, stderr=sp.STDOUT )		# unhash for silenced rosetta stdout
 
 
 

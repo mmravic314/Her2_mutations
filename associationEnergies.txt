@@ -1,2 +1,0 @@
-her2_wt-wt.pdb, noPH mode
-mean score (of top 3) -224.9

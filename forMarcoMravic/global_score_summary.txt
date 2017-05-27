@@ -1,0 +1,54 @@
+
+# pdbType(chA,chB,dimer) meanOfTop3 StdevOfTop3 median stdev 
+# Her2 50-minimization-repack-memReorient-trajectories_RosettaMP-fastRelax_pHmode-pH4
+
+Dimer     	-273.5 1.2 -266.4 5.0
+Monomer B     	-115.6 0.0 -115.2 0.8
+Monomer A     	-127.2 0.0 -125.6 0.8
+10-HER2_WT-L663P  |  Association Energy (Rosetta Energy Units) = -30.6
+
+Dimer     	-275.1 0.8 -261.7 4.8
+Monomer B     	-126.9 0.0 -126.5 0.3
+Monomer A     	-126.2 0.0 -126.1 0.5
+3-HER2_S656C-S656C  |  Association Energy (Rosetta Energy Units) = -22.0
+
+Dimer     	-275.7 1.9 -264.7 3.9
+Monomer B     	-126.9 0.0 -126.8 0.3
+Monomer A     	-127.3 0.0 -127.1 0.7
+2-HER2_WT-S656C  |  Association Energy (Rosetta Energy Units) = -21.5
+
+Dimer     	-283.2 1.3 -271.0 4.2
+Monomer B     	-127.6 0.0 -127.0 0.3
+Monomer A     	-127.3 0.0 -127.1 0.8
+8-HER2_WT-V665M  |  Association Energy (Rosetta Energy Units) = -28.3
+
+Dimer     	-270.9 0.3 -262.8 3.2
+Monomer B     	-126.2 0.0 -126.1 0.5
+Monomer A     	-125.6 0.0 -125.5 0.6
+5-HER2_G660D-G660D  |  Association Energy (Rosetta Energy Units) = -19.0
+
+Dimer     	-279.2 0.4 -270.8 3.5
+Monomer B     	-127.7 0.1 -127.0 0.4
+Monomer A     	-127.0 0.0 -126.9 0.6
+9-HER2_V665M-V665M  |  Association Energy (Rosetta Energy Units) = -24.5
+
+Dimer     	-279.9 1.1 -269.8 3.6
+Monomer B     	-130.0 0.0 -129.7 0.4
+Monomer A     	-127.3 0.0 -125.6 0.8
+6-HER2_WT-G660R  |  Association Energy (Rosetta Energy Units) = -22.7
+
+Dimer     	-261.5 1.7 -253.0 3.8
+Monomer B     	-114.6 0.1 -114.3 0.9
+Monomer A     	-114.7 0.0 -114.1 0.6
+11-HER2_L663P-L633P  |  Association Energy (Rosetta Energy Units) = -32.1
+
+Dimer     	-275.7 0.9 -268.7 3.0
+Monomer B     	-129.9 0.0 -129.3 0.6
+Monomer A     	-129.4 0.0 -128.8 0.6
+7-HER2_G660R-G660R  |  Association Energy (Rosetta Energy Units) = -16.4
+
+Dimer     	-278.3 0.1 -268.5 4.8
+Monomer B     	-126.2 0.0 -126.1 0.4
+Monomer A     	-127.3 0.0 -125.7 0.8
+4-HER2_WT-G660D  |  Association Energy (Rosetta Energy Units) = -24.8
+
